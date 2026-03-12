@@ -1,4 +1,4 @@
-# # AWS Data Engineering Pipeline – IBM Banking Transactions
+# AWS Data Engineering Pipeline – IBM Banking Transactions
 
 ![AWS](https://img.shields.io/badge/AWS-S3%20%7C%20EC2%20%7C%20Athena-orange)
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
