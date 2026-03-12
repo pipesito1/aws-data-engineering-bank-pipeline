@@ -59,6 +59,10 @@ Looker Studio
 6. Exported the processed dataset (`2_accounts.csv`) for BI visualization.
 7. Built an interactive **Looker Studio dashboard** to analyze bank accounts distribution.
 
+## Dashboard
+
+![Dashboard](dashboard/Analysis_of_Bank_Accounts.png)
+
 ## Example Athena Query
 
 ```sql
@@ -66,6 +70,3 @@ SELECT *
 FROM accounts_parquet_v5
 LIMIT 10;
 
-## Dashboard
-
-![Dashboard](dashboard/Analysis_of_Bank_Accounts.png)
