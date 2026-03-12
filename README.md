@@ -9,7 +9,7 @@
 
 This project demonstrates a cloud-based data engineering pipeline using AWS services to process large banking datasets.
 
-## Architecture
+
 
 ## Architecture
 
