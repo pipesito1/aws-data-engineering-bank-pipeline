@@ -1,0 +1,8 @@
+2_accounts.csv
+*.parquet
+*.zip
+*.gz
+*.xlsx
+data/
+__pycache__/
+*.pyc
